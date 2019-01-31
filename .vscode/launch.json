@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ManagerApplication",
+            "request": "launch",
+            "mainClass": "com.photomanager.manager.ManagerApplication",
+            "projectName": "manager"
+        }
+    ]
+}
